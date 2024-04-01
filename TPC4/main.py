@@ -10,7 +10,7 @@ tokens = (
     'EQ',
     'GREATER',
     'GREATER_EQ',
-    'LESS,
+    'LESS',
     'LESS_EQ'
 )
 
